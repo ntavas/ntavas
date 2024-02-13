@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantinos Ntavarinos.
 - 💻 Full Stack Developer for European Dynamics. 
-- 👀 I’m interested in programming and cloud development.
+- 👀 I’m interested in web and cloud development.
 - 📫 Reach me via Email: ntavarinos.k@gmail.com
 
 <!---
